@@ -16,7 +16,7 @@ export const REMOTE_CONFIGS = [
   {
     label: "customized",
     options: [
-      { label: "ACL4SSR_Online_AdblockPlus", value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini" },
+      { label: "ACL4SSR_Online_Dhs", value: "https://raw.githubusercontent.com/dhslegen/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini" },
       { label: "ACL4SSR_Online_AdblockPlus_Dhs", value: "https://raw.githubusercontent.com/dhslegen/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini" },
       { label: "Maying", value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini" },
       { label: "Ytoo", value: "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/ytoo.ini" },
